@@ -10,8 +10,8 @@ sources = [
     "http://www.tcpdump.org/release/libpcap-1.9.0.tar.gz" =>
     "2edb88808e5913fdaa8e9c1fcaf272e19b2485338742b5074b9fe44d68f37019",
 
-    "http://www.linuxfromscratch.org/patches/blfs/svn/libpcap-1.9.0-enable_bluetooth-1.patch" =>
-    "5000de2daec00fb31ccc949f7e265bfb621635c8e2daf9bb17770d75997195b5",
+    #"http://www.linuxfromscratch.org/patches/blfs/svn/libpcap-1.9.0-enable_bluetooth-1.patch" =>
+    #"5000de2daec00fb31ccc949f7e265bfb621635c8e2daf9bb17770d75997195b5",
 
 ]
 
